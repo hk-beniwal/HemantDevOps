@@ -3,3 +3,10 @@ git status
 git commit -m
 git restore
 git log
+git pull
+git push
+git fetch
+git log --oneline
+git log --oneline --pretty
+git clone
+git add
